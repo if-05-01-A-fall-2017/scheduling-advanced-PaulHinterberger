@@ -1,0 +1,20 @@
+1.
+Run:  1 2 3 4   5
+Q:    1 2 4 8   16
+Acc:  1 3 7 15  31
+
+2.
+
+
+3.	
+Ein Programm ist CPU-gebunden, wenn es schneller gehen würde, wenn die CPU schneller wäre, d. H. Es verbringt den größten Teil seiner Zeit damit, einfach die CPU zu verwenden (Berechnungen durchführend). 
+
+Ein Programm ist I / O - gebunden, wenn es schneller würde, wenn das I / O - System schneller wäre.
+
+4.
+35/50+20/100 + 10/200 + $x$/250 < 1
+19/20 + $x$/250 < 1
+(4750 + 20$x$) / 5000 < 1
+475 + 2$x$ < 500
+2$x$ < 25
+$x$ < 12.5
